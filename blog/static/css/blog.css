@@ -1,6 +1,6 @@
 h1 a, h2 a {
     color: #2f013d;
-    font-family: 'Blackout';
+    font-family: 'Megalopolis Extra';
 }
 body {
     padding-left: 15px;
@@ -22,7 +22,7 @@ body {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Blackout', cursive;
+    font-family: 'Megalopolis Extra', cursive;
 }
 
 .date {
