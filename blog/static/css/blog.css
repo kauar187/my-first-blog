@@ -1,9 +1,9 @@
 h1 a, h2 a {
     color: #2f013d;
-    font-family: 'Megalopolis Extra';
+    font-family: 'Calendas Plus';
 }
 body {
-    padding-left: 15px;
+    padding-left: 0px;
 }
 .page-header {
     background-color: #2f013d;
@@ -22,7 +22,7 @@ body {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Megalopolis Extra', cursive;
+    font-family: 'Calendas Plus', cursive;
 }
 
 .date {
